@@ -25,3 +25,8 @@ void loop() {
   
 }
 
+output : 
+
+connected to wifi esp32
+192.168.43.250
+
